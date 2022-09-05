@@ -116,3 +116,19 @@ body{
         max-width: 900px;
     }
 } 
+.container-fluid{
+    animation-duration: 3s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-top: 100%;
+      width: 300%
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
