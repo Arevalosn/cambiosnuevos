@@ -106,7 +106,9 @@ body {
     transition: all 0.4s;
 }
 .footer ol li :hover {
-    color: cyan;
+    color: rgb(194, 3, 178);
+    transform: rotate(360deg);
+    transition-duration: 1.2s;
 
 }
 
