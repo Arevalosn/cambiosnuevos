@@ -7,4 +7,15 @@
   background-color: rgba(0, 0, 0, 0.418);
   padding: 1rem;
   margin: 2rem;
+}
+
+main .tituloPaginaPrincipal {
+  font-family: fantasy;
+  font-size: x-large;
+  text-shadow: 3px 4px 10px white;
+  color: white;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.418);
+  padding: 1rem;
+  margin: 2rem;
 }/*# sourceMappingURL=estilos.css.map */
